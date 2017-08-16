@@ -1,0 +1,6 @@
+int32 publish_count
+bool sensor_system_status
+bool imu_status
+bool sonar_status
+bool tof_status
+bool bump_skirt_status
